@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "@idscan/idvc2": "2.10.1",
-    "@idscan/onboarding": "file:idscan-onboarding-2.5.1-rc-10-07.tgz"
+    "@idscan/onboarding": "^2.7.0"
   }
 }
